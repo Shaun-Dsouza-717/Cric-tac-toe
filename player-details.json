@@ -20,7 +20,8 @@
         "teams": [
             "Royal Challengers Bangalore",
             "Delhi Capitals",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Pune Warriors India"
         ]
     },
     "Bharat Chipli": {
@@ -56,7 +57,8 @@
             "Royal Challengers Bangalore",
             "Punjab Kings",
             "Mumbai Indians",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Gujarat Lions"
         ]
     },
     "KP Appanna": {
@@ -78,14 +80,16 @@
         "teams": [
             "Royal Challengers Bangalore",
             "Kolkata Knight Riders",
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Kochi Tuskers Kerala"
         ]
     },
     "Dale Steyn": {
         "nationality": "South African",
         "teams": [
             "Royal Challengers Bangalore",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Gujarat Lions"
         ]
     },
     "Chidhambaram Gautam": {
@@ -110,7 +114,9 @@
             "Delhi Capitals",
             "Kolkata Knight Riders",
             "Mumbai Indians",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Pune Warriors India",
+            "Lucknow Super Giants"
         ]
     },
     "Raju Bhatkal": {
@@ -125,7 +131,8 @@
             "Royal Challengers Bangalore",
             "Chennai Super Kings",
             "Delhi Capitals",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Kochi Tuskers Kerala"
         ]
     },
     "Pankaj Singh": {
@@ -153,7 +160,8 @@
         "nationality": "Indian",
         "teams": [
             "Royal Challengers Bangalore",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Pune Warriors India"
         ]
     },
     "Eoin Morgan": {
@@ -170,7 +178,8 @@
         "teams": [
             "Royal Challengers Bangalore",
             "Delhi Capitals",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Rising Pune Supergiants"
         ]
     },
     "Robin Uthappa": {
@@ -180,7 +189,8 @@
             "Chennai Super Kings",
             "Kolkata Knight Riders",
             "Mumbai Indians",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Pune Warriors India"
         ]
     },
     "Steve Smith": {
@@ -188,7 +198,10 @@
         "teams": [
             "Royal Challengers Bangalore",
             "Delhi Capitals",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Kochi Tuskers Kerala",
+            "Rising Pune Supergiants",
+            "Pune Warriors India"
         ]
     },
     "Roelof van der Merwe": {
@@ -233,7 +246,8 @@
             "Royal Challengers Bangalore",
             "Delhi Capitals",
             "Punjab Kings",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Rising Pune Supergiants"
         ]
     },
     "Mohammad Kaif": {
@@ -249,7 +263,8 @@
         "teams": [
             "Royal Challengers Bangalore",
             "Delhi Capitals",
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Rising Pune Supergiants"
         ]
     },
     "Luke Pomersbach": {
@@ -356,7 +371,8 @@
         "nationality": "Sri Lankan",
         "teams": [
             "Royal Challengers Bangalore",
-            "Chennai Super Kings"
+            "Chennai Super Kings",
+            "Kochi Tuskers Kerala"
         ]
     },
     "KL Rahul": {
@@ -364,7 +380,8 @@
         "teams": [
             "Royal Challengers Bangalore",
             "Punjab Kings",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Lucknow Super Giants"
         ]
     },
     "Abhinav Mukund": {
@@ -403,7 +420,8 @@
         "nationality": "Australian",
         "teams": [
             "Royal Challengers Bangalore",
-            "Delhi Capitals"
+            "Delhi Capitals",
+            "Rising Pune Supergiants"
         ]
     },
     "Sandeep Warrier": {
@@ -427,14 +445,18 @@
             "Delhi Capitals",
             "Kolkata Knight Riders",
             "Mumbai Indians",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Rising Pune Supergiants",
+            "Lucknow Super Giants"
         ]
     },
     "RP Singh": {
         "nationality": "Indian",
         "teams": [
             "Royal Challengers Bangalore",
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Kochi Tuskers Kerala",
+            "Rising Pune Supergiants"
         ]
     },
     "Murali Kartik": {
@@ -442,7 +464,8 @@
         "teams": [
             "Royal Challengers Bangalore",
             "Punjab Kings",
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Pune Warriors India"
         ]
     },
     "Parthiv Patel": {
@@ -451,7 +474,8 @@
             "Royal Challengers Bangalore",
             "Chennai Super Kings",
             "Mumbai Indians",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Kochi Tuskers Kerala"
         ]
     },
     "Tanmay Mishra": {
@@ -480,7 +504,8 @@
             "Delhi Capitals",
             "Punjab Kings",
             "Mumbai Indians",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Pune Warriors India"
         ]
     },
     "Albie Morkel": {
@@ -488,14 +513,16 @@
         "teams": [
             "Royal Challengers Bangalore",
             "Chennai Super Kings",
-            "Delhi Capitals"
+            "Delhi Capitals",
+            "Rising Pune Supergiants"
         ]
     },
     "Sachin Rana": {
         "nationality": "Indian",
         "teams": [
             "Royal Challengers Bangalore",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Pune Warriors India"
         ]
     },
     "Abu Nechim": {
@@ -515,7 +542,8 @@
         "nationality": "Indian",
         "teams": [
             "Royal Challengers Bangalore",
-            "Chennai Super Kings"
+            "Chennai Super Kings",
+            "Gujarat Lions"
         ]
     },
     "Yuzvendra Chahal": {
@@ -531,7 +559,9 @@
         "teams": [
             "Royal Challengers Bangalore",
             "Delhi Capitals",
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Pune Warriors India",
+            "Rising Pune Supergiants"
         ]
     },
     "Varun Aaron": {
@@ -541,7 +571,8 @@
             "Delhi Capitals",
             "Punjab Kings",
             "Kolkata Knight Riders",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Gujarat Titans"
         ]
     },
     "Dinesh Karthik": {
@@ -551,7 +582,8 @@
             "Delhi Capitals",
             "Punjab Kings",
             "Kolkata Knight Riders",
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Gujarat Lions"
         ]
     },
     "Mandeep Singh": {
@@ -652,7 +684,8 @@
         "nationality": "Indian",
         "teams": [
             "Royal Challengers Bangalore",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Pune Warriors India"
         ]
     },
     "Stuart Binny": {
@@ -701,7 +734,8 @@
         "nationality": "Australian",
         "teams": [
             "Royal Challengers Bangalore",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Pune Warriors India"
         ]
     },
     "Tabraiz Shamsi": {
@@ -730,7 +764,8 @@
     "Harpreet Singh": {
         "nationality": "Indian",
         "teams": [
-            "Royal Challengers Bangalore"
+            "Royal Challengers Bangalore",
+            "Pune Warriors India"
         ]
     },
     "Pawan Negi": {
@@ -767,7 +802,8 @@
         "nationality": "Indian",
         "teams": [
             "Royal Challengers Bangalore",
-            "Delhi Capitals"
+            "Delhi Capitals",
+            "Lucknow Super Giants"
         ]
     },
     "Quinton de Kock": {
@@ -776,7 +812,8 @@
             "Royal Challengers Bangalore",
             "Delhi Capitals",
             "Mumbai Indians",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Lucknow Super Giants"
         ]
     },
     "Brendon McCullum": {
@@ -784,7 +821,9 @@
         "teams": [
             "Royal Challengers Bangalore",
             "Chennai Super Kings",
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Kochi Tuskers Kerala",
+            "Gujarat Lions"
         ]
     },
     "Pavan Deshpande": {
@@ -798,7 +837,8 @@
         "teams": [
             "Royal Challengers Bangalore",
             "Punjab Kings",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Lucknow Super Giants"
         ]
     },
     "Moeen Ali": {
@@ -835,7 +875,8 @@
         "nationality": "Indian",
         "teams": [
             "Royal Challengers Bangalore",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Rising Pune Supergiants"
         ]
     },
     "Mohammed Siraj": {
@@ -860,7 +901,8 @@
             "Delhi Capitals",
             "Punjab Kings",
             "Mumbai Indians",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Rising Pune Supergiants"
         ]
     },
     "Tim Southee": {
@@ -924,7 +966,8 @@
             "Royal Challengers Bangalore",
             "Delhi Capitals",
             "Punjab Kings",
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Gujarat Titans"
         ]
     },
     "Heinrich Klaasen": {
@@ -940,14 +983,16 @@
         "teams": [
             "Royal Challengers Bangalore",
             "Delhi Capitals",
-            "Punjab Kings"
+            "Punjab Kings",
+            "Lucknow Super Giants"
         ]
     },
     "Akshdeep Nath": {
         "nationality": "Indian",
         "teams": [
             "Royal Challengers Bangalore",
-            "Punjab Kings"
+            "Punjab Kings",
+            "Gujarat Lions"
         ]
     },
     "Shivam Dube": {
@@ -979,7 +1024,9 @@
             "Kolkata Knight Riders",
             "Mumbai Indians",
             "Rajasthan Royals",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Pune Warriors India",
+            "Gujarat Lions"
         ]
     },
     "Chris Morris": {
@@ -994,7 +1041,8 @@
     "Shahbaz Ahamad": {
         "nationality": "Indian",
         "teams": [
-            "Royal Challengers Bangalore"
+            "Royal Challengers Bangalore",
+            "Lucknow Super Giants"
         ]
     },
     "Isuru Udana": {
@@ -1007,7 +1055,8 @@
         "nationality": "Australian",
         "teams": [
             "Royal Challengers Bangalore",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Rising Pune Supergiants"
         ]
     },
     "Finn Allen": {
@@ -1039,7 +1088,8 @@
         "nationality": "Indian",
         "teams": [
             "Royal Challengers Bangalore",
-            "Delhi Capitals"
+            "Delhi Capitals",
+            "Gujarat Titans"
         ]
     },
     "Mohammed Azharuddeen": {
@@ -1075,7 +1125,8 @@
         "teams": [
             "Royal Challengers Bangalore",
             "Delhi Capitals",
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Lucknow Super Giants"
         ]
     },
     "Kyle Jamieson": {
@@ -1095,7 +1146,8 @@
         "nationality": "Sri Lankan",
         "teams": [
             "Royal Challengers Bangalore",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Lucknow Super Giants"
         ]
     },
     "George Garton": {
@@ -1108,7 +1160,8 @@
         "nationality": "South African",
         "teams": [
             "Royal Challengers Bangalore",
-            "Chennai Super Kings"
+            "Chennai Super Kings",
+            "Rising Pune Supergiants"
         ]
     },
     "Anuj Rawat": {
@@ -1196,13 +1249,13 @@
         ]
     },
     "Will Jacks": {
-        "nationality": "England",
+        "nationality": "English",
         "teams": [
             "Royal Challengers Bangalore"
         ]
     },
     "Michael Bracewell": {
-        "nationality": "New Zealand",
+        "nationality": "New Zealander",
         "teams": [
             "Royal Challengers Bangalore"
         ]
@@ -1220,7 +1273,7 @@
         ]
     },
     "Reece Topley": {
-        "nationality": "England",
+        "nationality": "English",
         "teams": [
             "Royal Challengers Bangalore"
         ]
@@ -1247,7 +1300,8 @@
         "nationality": "South African",
         "teams": [
             "Royal Challengers Bangalore",
-            "Delhi Capitals"
+            "Delhi Capitals",
+            "Pune Warriors India"
         ]
     },
     "Avinash Singh": {
@@ -1259,7 +1313,8 @@
     "MS Dhoni": {
         "nationality": "Indian",
         "teams": [
-            "Chennai Super Kings"
+            "Chennai Super Kings",
+            "Rising Pune Supergiants"
         ]
     },
     "Srikkanth Anirudha": {
@@ -1272,7 +1327,8 @@
     "Suresh Raina": {
         "nationality": "Indian",
         "teams": [
-            "Chennai Super Kings"
+            "Chennai Super Kings",
+            "Gujarat Lions"
         ]
     },
     "Michael Hussey": {
@@ -1288,7 +1344,8 @@
             "Chennai Super Kings",
             "Delhi Capitals",
             "Punjab Kings",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Rising Pune Supergiants"
         ]
     },
     "Jacob Oram": {
@@ -1324,7 +1381,8 @@
         "nationality": "Indian",
         "teams": [
             "Chennai Super Kings",
-            "Punjab Kings"
+            "Punjab Kings",
+            "Gujarat Lions"
         ]
     },
     "Murali Vijay": {
@@ -1339,7 +1397,8 @@
         "nationality": "Australian",
         "teams": [
             "Chennai Super Kings",
-            "Punjab Kings"
+            "Punjab Kings",
+            "Rising Pune Supergiants"
         ]
     },
     "Thisara Perera": {
@@ -1347,7 +1406,9 @@
         "teams": [
             "Chennai Super Kings",
             "Punjab Kings",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Kochi Tuskers Kerala",
+            "Rising Pune Supergiants"
         ]
     },
     "Doug Bollinger": {
@@ -1362,7 +1423,8 @@
             "Chennai Super Kings",
             "Punjab Kings",
             "Kolkata Knight Riders",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Gujarat Titans"
         ]
     },
     "Scott Styris": {
@@ -1375,7 +1437,8 @@
         "nationality": "West Indian",
         "teams": [
             "Chennai Super Kings",
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Gujarat Lions"
         ]
     },
     "Yo Mahesh": {
@@ -1409,7 +1472,9 @@
         "nationality": "Indian",
         "teams": [
             "Chennai Super Kings",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Kochi Tuskers Kerala",
+            "Gujarat Lions"
         ]
     },
     "Jason Holder": {
@@ -1418,7 +1483,8 @@
             "Chennai Super Kings",
             "Kolkata Knight Riders",
             "Rajasthan Royals",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Lucknow Super Giants"
         ]
     },
     "Vijay Shankar": {
@@ -1426,7 +1492,8 @@
         "teams": [
             "Chennai Super Kings",
             "Delhi Capitals",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Gujarat Titans"
         ]
     },
     "Akila Dananjaya": {
@@ -1442,7 +1509,8 @@
             "Chennai Super Kings",
             "Punjab Kings",
             "Kolkata Knight Riders",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Lucknow Super Giants"
         ]
     },
     "Mohit Sharma": {
@@ -1450,7 +1518,8 @@
         "teams": [
             "Chennai Super Kings",
             "Delhi Capitals",
-            "Punjab Kings"
+            "Punjab Kings",
+            "Gujarat Titans"
         ]
     },
     "Ronit More": {
@@ -1471,14 +1540,16 @@
         "nationality": "Indian",
         "teams": [
             "Chennai Super Kings",
-            "Delhi Capitals"
+            "Delhi Capitals",
+            "Pune Warriors India"
         ]
     },
     "John Hastings": {
         "nationality": "Australian",
         "teams": [
             "Chennai Super Kings",
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Kochi Tuskers Kerala"
         ]
     },
     "David Hussey": {
@@ -1493,7 +1564,8 @@
         "nationality": "West Indian",
         "teams": [
             "Chennai Super Kings",
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Gujarat Lions"
         ]
     },
     "Matt Henry": {
@@ -1506,7 +1578,9 @@
     "Ishwar Pandey": {
         "nationality": "Indian",
         "teams": [
-            "Chennai Super Kings"
+            "Chennai Super Kings",
+            "Pune Warriors India",
+            "Rising Pune Supergiants"
         ]
     },
     "Ashish Nehra": {
@@ -1515,7 +1589,8 @@
             "Chennai Super Kings",
             "Delhi Capitals",
             "Mumbai Indians",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Pune Warriors India"
         ]
     },
     "Ankush Bains": {
@@ -1523,14 +1598,17 @@
         "teams": [
             "Chennai Super Kings",
             "Delhi Capitals",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Rising Pune Supergiants"
         ]
     },
     "Eklavya Dwivedi ": {
         "nationality": "Indian",
         "teams": [
             "Chennai Super Kings",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Pune Warriors India",
+            "Gujarat Lions"
         ]
     },
     "Kyle Abbott": {
@@ -1546,7 +1624,9 @@
             "Chennai Super Kings",
             "Delhi Capitals",
             "Punjab Kings",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Gujarat Lions",
+            "Rising Pune Supergiants"
         ]
     },
     "Andrew Tye": {
@@ -1554,14 +1634,17 @@
         "teams": [
             "Chennai Super Kings",
             "Punjab Kings",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Gujarat Lions",
+            "Lucknow Super Giants"
         ]
     },
     "Rahul Sharma": {
         "nationality": "Indian",
         "teams": [
             "Chennai Super Kings",
-            "Delhi Capitals"
+            "Delhi Capitals",
+            "Pune Warriors India"
         ]
     },
     "Sam Billings": {
@@ -1616,14 +1699,16 @@
         "nationality": "South African",
         "teams": [
             "Chennai Super Kings",
-            "Delhi Capitals"
+            "Delhi Capitals",
+            "Rising Pune Supergiants"
         ]
     },
     "Deepak Chahar": {
         "nationality": "Indian",
         "teams": [
             "Chennai Super Kings",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Rising Pune Supergiants"
         ]
     },
     "KM Asif": {
@@ -1639,7 +1724,8 @@
             "Chennai Super Kings",
             "Delhi Capitals",
             "Punjab Kings",
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Rising Pune Supergiants"
         ]
     },
     "Monu Kumar": {
@@ -1658,7 +1744,8 @@
     "Mark Wood": {
         "nationality": "English",
         "teams": [
-            "Chennai Super Kings"
+            "Chennai Super Kings",
+            "Lucknow Super Giants"
         ]
     },
     "Ruturaj Gaikwad": {
@@ -1686,7 +1773,8 @@
     "Sai Kishore": {
         "nationality": "Indian",
         "teams": [
-            "Chennai Super Kings"
+            "Chennai Super Kings",
+            "Gujarat Titans"
         ]
     },
     "C Hari Nishaanth": {
@@ -1707,7 +1795,8 @@
             "Chennai Super Kings",
             "Punjab Kings",
             "Mumbai Indians",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Lucknow Super Giants"
         ]
     },
     "M Harishankar Reddy": {
@@ -1719,7 +1808,8 @@
     "Dominic Drakes": {
         "nationality": "West Indian",
         "teams": [
-            "Chennai Super Kings"
+            "Chennai Super Kings",
+            "Gujarat Titans"
         ]
     },
     "Devon Conway": {
@@ -1791,7 +1881,8 @@
             "Delhi Capitals",
             "Kolkata Knight Riders",
             "Mumbai Indians",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Rising Pune Supergiants"
         ]
     },
     "Shaik Rasheed": {
@@ -1804,7 +1895,8 @@
         "nationality": "English",
         "teams": [
             "Chennai Super Kings",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Rising Pune Supergiants"
         ]
     },
     "Nishant Sindhu": {
@@ -1827,7 +1919,7 @@
         ]
     },
     "Sisanda Magala": {
-        "nationality": "South Africa",
+        "nationality": "South African",
         "teams": [
             "Chennai Super Kings"
         ]
@@ -1860,7 +1952,8 @@
         "teams": [
             "Delhi Capitals",
             "Punjab Kings",
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Rising Pune Supergiants"
         ]
     },
     "Yogesh Nagar": {
@@ -1874,7 +1967,8 @@
         "teams": [
             "Delhi Capitals",
             "Kolkata Knight Riders",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Rising Pune Supergiants"
         ]
     },
     "Pradeep Sangwan": {
@@ -1882,14 +1976,18 @@
         "teams": [
             "Delhi Capitals",
             "Kolkata Knight Riders",
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Gujarat Lions",
+            "Gujarat Titans"
         ]
     },
     "Amit Mishra": {
         "nationality": "Indian",
         "teams": [
             "Delhi Capitals",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Gujarat Lions",
+            "Lucknow Super Giants"
         ]
     },
     "Owais Shah": {
@@ -1897,7 +1995,8 @@
         "teams": [
             "Delhi Capitals",
             "Kolkata Knight Riders",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Kochi Tuskers Kerala"
         ]
     },
     "David Warner": {
@@ -1924,7 +2023,8 @@
         "nationality": "Indian",
         "teams": [
             "Delhi Capitals",
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Gujarat Lions"
         ]
     },
     "Naman Ojha": {
@@ -1938,7 +2038,8 @@
     "Matthew Wade": {
         "nationality": "Australian",
         "teams": [
-            "Delhi Capitals"
+            "Delhi Capitals",
+            "Gujarat Titans"
         ]
     },
     "Colin Ingram": {
@@ -1995,7 +2096,8 @@
         "nationality": "Sri Lankan",
         "teams": [
             "Delhi Capitals",
-            "Punjab Kings"
+            "Punjab Kings",
+            "Kochi Tuskers Kerala"
         ]
     },
     "Manpreet Juneja": {
@@ -2084,7 +2186,8 @@
         "nationality": "Indian",
         "teams": [
             "Delhi Capitals",
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Gujarat Titans"
         ]
     },
     "Mohammad Shami": {
@@ -2092,7 +2195,8 @@
         "teams": [
             "Delhi Capitals",
             "Punjab Kings",
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Gujarat Titans"
         ]
     },
     "Shreyas Iyer": {
@@ -2106,7 +2210,8 @@
         "nationality": "Sri Lankan",
         "teams": [
             "Delhi Capitals",
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Pune Warriors India"
         ]
     },
     "Domnic Joseph": {
@@ -2176,7 +2281,8 @@
     "Marlon Samuels": {
         "nationality": "West Indian",
         "teams": [
-            "Delhi Capitals"
+            "Delhi Capitals",
+            "Pune Warriors India"
         ]
     },
     "Kagiso Rabada": {
@@ -2212,7 +2318,9 @@
         "teams": [
             "Delhi Capitals",
             "Kolkata Knight Riders",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Gujarat Lions",
+            "Gujarat Titans"
         ]
     },
     "Prithvi Shaw": {
@@ -2249,7 +2357,8 @@
         "teams": [
             "Delhi Capitals",
             "Punjab Kings",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Gujarat Titans"
         ]
     },
     "Sayan Ghosh": {
@@ -2292,14 +2401,16 @@
             "Delhi Capitals",
             "Punjab Kings",
             "Kolkata Knight Riders",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Rising Pune Supergiants"
         ]
     },
     "Nathu Singh": {
         "nationality": "Indian",
         "teams": [
             "Delhi Capitals",
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Gujarat Lions"
         ]
     },
     "Jagadeesha Suchith": {
@@ -2387,7 +2498,9 @@
         "nationality": "Australian",
         "teams": [
             "Delhi Capitals",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Pune Warriors India",
+            "Rising Pune Supergiants"
         ]
     },
     "Kamlesh Nagarkoti": {
@@ -2442,13 +2555,13 @@
         ]
     },
     "Phil Salt": {
-        "nationality": "England",
+        "nationality": "English",
         "teams": [
             "Delhi Capitals"
         ]
     },
     "Abishek Porel": {
-        "nationality": "India",
+        "nationality": "Indian",
         "teams": [
             "Delhi Capitals"
         ]
@@ -2475,7 +2588,8 @@
     "Tanmay Srivastava": {
         "nationality": "Indian",
         "teams": [
-            "Punjab Kings"
+            "Punjab Kings",
+            "Kochi Tuskers Kerala"
         ]
     },
     "Shaun Marsh": {
@@ -2502,14 +2616,16 @@
     "Ramesh Powar": {
         "nationality": "Indian",
         "teams": [
-            "Punjab Kings"
+            "Punjab Kings",
+            "Kochi Tuskers Kerala"
         ]
     },
     "Shanthakumaran Sreesanth": {
         "nationality": "Indian",
         "teams": [
             "Punjab Kings",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Kochi Tuskers Kerala"
         ]
     },
     "Ravi Bopara": {
@@ -2550,7 +2666,8 @@
         "teams": [
             "Punjab Kings",
             "Kolkata Knight Riders",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Gujarat Lions"
         ]
     },
     "Paul Valthaty": {
@@ -2577,7 +2694,8 @@
         "nationality": "South African",
         "teams": [
             "Punjab Kings",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Gujarat Titans"
         ]
     },
     "Abhishek Nayar": {
@@ -2585,7 +2703,8 @@
         "teams": [
             "Punjab Kings",
             "Mumbai Indians",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Pune Warriors India"
         ]
     },
     "Ryan McLaren": {
@@ -2625,7 +2744,9 @@
         "nationality": "Australian",
         "teams": [
             "Punjab Kings",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Pune Warriors India",
+            "Gujarat Lions"
         ]
     },
     "Azhar Mahmood": {
@@ -2734,7 +2855,8 @@
         "nationality": "Indian",
         "teams": [
             "Punjab Kings",
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Lucknow Super Giants"
         ]
     },
     "KC Cariappa": {
@@ -2795,7 +2917,8 @@
         "teams": [
             "Punjab Kings",
             "Mumbai Indians",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Lucknow Super Giants"
         ]
     },
     "Prabhsimran Singh": {
@@ -2807,7 +2930,8 @@
     "Darshan Nalkande": {
         "nationality": "Indian",
         "teams": [
-            "Punjab Kings"
+            "Punjab Kings",
+            "Gujarat Titans"
         ]
     },
     "Agnivesh Ayachi": {
@@ -2853,7 +2977,8 @@
         "teams": [
             "Punjab Kings",
             "Rajasthan Royals",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Lucknow Super Giants"
         ]
     },
     "Ishan Porel": {
@@ -2865,7 +2990,8 @@
     "Ravi Bishnoi": {
         "nationality": "Indian",
         "teams": [
-            "Punjab Kings"
+            "Punjab Kings",
+            "Lucknow Super Giants"
         ]
     },
     "Sheldon Cottrell": {
@@ -2910,7 +3036,8 @@
     "Saurabh Kumar": {
         "nationality": "Indian",
         "teams": [
-            "Punjab Kings"
+            "Punjab Kings",
+            "Rising Pune Supergiants"
         ]
     },
     "Jhye Richardson": {
@@ -2994,13 +3121,15 @@
     "Odean Smith": {
         "nationality": "West Indian",
         "teams": [
-            "Punjab Kings"
+            "Punjab Kings",
+            "Gujarat Titans"
         ]
     },
     "Prerak Mankad": {
         "nationality": "Indian",
         "teams": [
-            "Punjab Kings"
+            "Punjab Kings",
+            "Lucknow Super Giants"
         ]
     },
     "Raj Angad Bawa": {
@@ -3019,7 +3148,8 @@
         "nationality": "Indian",
         "teams": [
             "Punjab Kings",
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Rising Pune Supergiants"
         ]
     },
     "Vaibhav Arora": {
@@ -3030,7 +3160,7 @@
         ]
     },
     "Matthew William Short": {
-        "nationality": "Australia",
+        "nationality": "Australian",
         "teams": [
             "Punjab Kings"
         ]
@@ -3042,7 +3172,7 @@
         ]
     },
     "Sikandar Raza": {
-        "nationality": "Zimbabwe",
+        "nationality": "Zimbabwean",
         "teams": [
             "Punjab Kings"
         ]
@@ -3088,7 +3218,8 @@
         "nationality": "Australian",
         "teams": [
             "Kolkata Knight Riders",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Kochi Tuskers Kerala"
         ]
     },
     "Ricky Ponting": {
@@ -3101,13 +3232,15 @@
     "Sourav Ganguly": {
         "nationality": "Indian",
         "teams": [
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Pune Warriors India"
         ]
     },
     "Ajantha Mendis": {
         "nationality": "Sri Lankan",
         "teams": [
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Pune Warriors India"
         ]
     },
     "Brad Haddin": {
@@ -3215,7 +3348,8 @@
     "Shubman Gill": {
         "nationality": "Indian",
         "teams": [
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Gujarat Titans"
         ]
     },
     "Nitish Rana": {
@@ -3234,7 +3368,8 @@
     "Shivam Mavi": {
         "nationality": "Indian",
         "teams": [
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Gujarat Titans"
         ]
     },
     "Prasidh Krishna": {
@@ -3247,7 +3382,8 @@
     "Shrikant Mundhe": {
         "nationality": "Indian",
         "teams": [
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Pune Warriors India"
         ]
     },
     "Joe Denly": {
@@ -3271,7 +3407,9 @@
     "Lockie Ferguson": {
         "nationality": "New Zealander",
         "teams": [
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Rising Pune Supergiants",
+            "Gujarat Titans"
         ]
     },
     "Prithvi Raj Yarra": {
@@ -3299,7 +3437,8 @@
         "teams": [
             "Kolkata Knight Riders",
             "Rajasthan Royals",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Rising Pune Supergiants"
         ]
     },
     "Chris Green": {
@@ -3338,7 +3477,8 @@
     "Pratham Singh": {
         "nationality": "Indian",
         "teams": [
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Gujarat Lions"
         ]
     },
     "Baba Indrajith": {
@@ -3394,11 +3534,12 @@
     "Rahmanullah Gurbaz": {
         "nationality": "Afghan",
         "teams": [
-            "Kolkata Knight Riders"
+            "Kolkata Knight Riders",
+            "Gujarat Titans"
         ]
     },
     "Litton Das": {
-        "nationality": "Bangladesh",
+        "nationality": "Bangladeshi",
         "teams": [
             "Kolkata Knight Riders"
         ]
@@ -3444,7 +3585,8 @@
         "nationality": "Indian",
         "teams": [
             "Mumbai Indians",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Gujarat Lions"
         ]
     },
     "Kieron Pollard": {
@@ -3456,7 +3598,8 @@
     "Ali Murtaza": {
         "nationality": "Indian",
         "teams": [
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Pune Warriors India"
         ]
     },
     "Aiden Blizzard": {
@@ -3481,7 +3624,8 @@
         "nationality": "Indian",
         "teams": [
             "Mumbai Indians",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Pune Warriors India"
         ]
     },
     "James Franklin": {
@@ -3501,7 +3645,8 @@
         "nationality": "Indian",
         "teams": [
             "Mumbai Indians",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Gujarat Lions"
         ]
     },
     "Herschelle Gibbs": {
@@ -3558,7 +3703,8 @@
     "Hardik Pandya": {
         "nationality": "Indian",
         "teams": [
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Gujarat Titans"
         ]
     },
     "Mitchell McClenaghan": {
@@ -3577,20 +3723,23 @@
     "Krunal Pandya": {
         "nationality": "Indian",
         "teams": [
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Lucknow Super Giants"
         ]
     },
     "Ishan Kishan": {
         "nationality": "Indian",
         "teams": [
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Gujarat Lions"
         ]
     },
     "Evin Lewis": {
         "nationality": "West Indian",
         "teams": [
             "Mumbai Indians",
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Lucknow Super Giants"
         ]
     },
     "Mayank Markande": {
@@ -3604,7 +3753,8 @@
     "Mohsin Khan": {
         "nationality": "Indian",
         "teams": [
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Lucknow Super Giants"
         ]
     },
     "Anmolpreet Singh": {
@@ -3623,7 +3773,8 @@
     "Alzarri Joseph": {
         "nationality": "West Indian",
         "teams": [
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Gujarat Titans"
         ]
     },
     "Rasikh Salam": {
@@ -3659,7 +3810,8 @@
     "Yudhvir Singh": {
         "nationality": "Indian",
         "teams": [
-            "Mumbai Indians"
+            "Mumbai Indians",
+            "Lucknow Super Giants"
         ]
     },
     "Marco Jansen": {
@@ -3729,7 +3881,8 @@
         "nationality": "Indian",
         "teams": [
             "Mumbai Indians",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Gujarat Lions"
         ]
     },
     "Kumar Kartikeya Singh": {
@@ -3745,7 +3898,7 @@
         ]
     },
     "Cameron Green": {
-        "nationality": "Australia",
+        "nationality": "Australian",
         "teams": [
             "Mumbai Indians"
         ]
@@ -3763,7 +3916,7 @@
         ]
     },
     "Duan Jansen": {
-        "nationality": "South Africa",
+        "nationality": "South African",
         "teams": [
             "Mumbai Indians"
         ]
@@ -3777,13 +3930,15 @@
     "Mahesh Rawat": {
         "nationality": "Indian",
         "teams": [
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Pune Warriors India"
         ]
     },
     "Graeme Smith": {
         "nationality": "South African",
         "teams": [
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Pune Warriors India"
         ]
     },
     "Gajendra Singh": {
@@ -3813,7 +3968,9 @@
     "Raiphi Gomez": {
         "nationality": "Indian",
         "teams": [
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Kochi Tuskers Kerala",
+            "Pune Warriors India"
         ]
     },
     "Amit Singh": {
@@ -3825,7 +3982,8 @@
     "Kamran Khan": {
         "nationality": "Indian",
         "teams": [
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Pune Warriors India"
         ]
     },
     "Amit Paunikar": {
@@ -3844,13 +4002,15 @@
     "Abhishek Jhunjhunwala": {
         "nationality": "Indian",
         "teams": [
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Pune Warriors India"
         ]
     },
     "Shrikant Wagh": {
         "nationality": "Indian",
         "teams": [
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Pune Warriors India"
         ]
     },
     "Aditya Dole": {
@@ -3887,7 +4047,8 @@
         "nationality": "Indian",
         "teams": [
             "Rajasthan Royals",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Gujarat Lions"
         ]
     },
     "Harmeet Singh": {
@@ -3900,7 +4061,8 @@
         "nationality": "Indian",
         "teams": [
             "Rajasthan Royals",
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Rising Pune Supergiants"
         ]
     },
     "Prashant Chopra": {
@@ -4034,11 +4196,12 @@
     "Tejas Baroka": {
         "nationality": "Indian",
         "teams": [
-            "Rajasthan Royals"
+            "Rajasthan Royals",
+            "Gujarat Lions"
         ]
     },
     "Donovan Ferreira": {
-        "nationality": "South Africa",
+        "nationality": "South African",
         "teams": [
             "Rajasthan Royals"
         ]
@@ -4050,7 +4213,7 @@
         ]
     },
     "Joe Root ": {
-        "nationality": "England",
+        "nationality": "English",
         "teams": [
             "Rajasthan Royals"
         ]
@@ -4094,7 +4257,8 @@
     "Nathan McCullum": {
         "nationality": "New Zealander",
         "teams": [
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Pune Warriors India"
         ]
     },
     "Anand Rajan": {
@@ -4118,13 +4282,15 @@
     "Kane Williamson": {
         "nationality": "New Zealander",
         "teams": [
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Gujarat Titans"
         ]
     },
     "Rashid Khan": {
         "nationality": "Afghan",
         "teams": [
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Gujarat Titans"
         ]
     },
     "Abdul Samad": {
@@ -4154,7 +4320,8 @@
     "Romario Shepherd": {
         "nationality": "West Indian",
         "teams": [
-            "Sunrisers Hyderabad"
+            "Sunrisers Hyderabad",
+            "Lucknow Super Giants"
         ]
     },
     "Fazalhaq Farooqi": {
@@ -4170,7 +4337,7 @@
         ]
     },
     "Harry Brook": {
-        "nationality": "England",
+        "nationality": "English",
         "teams": [
             "Sunrisers Hyderabad"
         ]
@@ -4206,9 +4373,352 @@
         ]
     },
     "Akeal Hosein": {
-        "nationality": "West Indies",
+        "nationality": "West Indian",
         "teams": [
             "Sunrisers Hyderabad"
+        ]
+    },
+    "Balachandra Akhil": {
+        "nationality":"Indian",
+        "teams": [
+            "Kochi Tuskers Kerala",
+            "Royal Challengers Bangalore"
+        ]
+    },
+    "Deepak Chougule": {
+        "nationality": "Indian",
+        "teams": [
+            "Kochi Tuskers Kerala"
+        ]
+    },
+    "Gnaneswara Rao": {
+        "nationality": "Indian",
+        "teams": [
+            "Kochi Tuskers Kerala"
+        ]
+    },
+    "Michael Klinger": {
+        "nationality": "Australian",
+        "teams": [
+            "Kochi Tuskers Kerala"
+        ]
+    },
+    "VVS Laxman": {
+        "nationality": "Indian",
+        "teams": [
+            "Kochi Tuskers Kerala",
+            "Deccan Chargers"
+        ]
+    },
+    "Chandan Madan": {
+        "nationality": "Indian",
+        "teams": [
+            "Kochi Tuskers Kerala",
+            "Mumbai Indians"
+        ]
+    },
+    "Sushant Marathe": {
+        "nationality": "Indian",
+        "teams": [
+            "Kochi Tuskers Kerala",
+            "Mumbai Indians"
+        ]
+    },
+    "Steve O'Keefe": {
+        "nationality": "Australian",
+        "teams": [
+            "Kochi Tuskers Kerala"
+        ]
+    },
+    "Prasanth Parameswaran": {
+        "nationality": "Indian",
+        "teams": [
+            "Kochi Tuskers Kerala",
+            "Sunrisers Hyderabad",
+            "Royal Challengers Bangalore"
+        ]
+    },
+    "Padmanabhan Prasanth": {
+        "nationality": "Indian",
+        "teams": [
+            "Kochi Tuskers Kerala",
+            "Sunrisers Hyderabad"
+        ]
+    },
+    "Yashpal Singh": {
+        "nationality": "Indian",
+        "teams": [
+            "Kochi Tuskers Kerala",
+            "Kolkata Knight Riders"
+        ]
+    },
+    "Alfonso Thomas": {
+        "nationality": "South African",
+        "teams": [
+            "Pune Warriors India"
+        ]
+    },
+    "Jerome Taylor": {
+        "nationality": "West Indian",
+        "teams": [
+            "Pune Warriors India"
+        ]
+    },
+    "Jesse Ryder": {
+        "nationality": "New Zealander", 
+        "teams": [
+            "Pune Warriors India",
+            "Royal Challengers Bangalore"
+        ]
+    },
+    "Tim Paine": {
+        "nationality": "Australian",
+        "teams": [
+            "Pune Warriors India"
+        ]
+    },
+    "Mohnish Mishra": {
+        "nationality": "Indian",
+        "teams": [
+            "Pune Warriors India",
+            "Deccan Chargers"
+        ]
+    },
+    "Harshad Khadiwale": {
+        "nationality": "Indian",
+        "teams": [
+            "Pune Warriors India",
+            "Kolkata Knight Riders"
+        ]
+    },
+    "Dheeraj Jadhav": {
+        "nationality": "Indian",
+        "teams": [
+            "Pune Warriors India"
+        ]
+    }, 
+    "Imtiaz Ahmed": {
+        "nationality": "Indian",
+        "teams": [
+            "Pune Warriors India",
+            "Chennai Super Kings"
+        ]
+    },   
+    "Callum Ferguson": {
+        "nationality": "Australian",
+        "teams": [
+            "Pune Warriors India"
+        ]
+    },
+    "Michael Clarke": {
+        "nationality": "Australian",
+        "teams": [
+            "Pune Warriors India"
+        ]
+    },
+    "James Hopes": {
+        "nationality": "Australian",
+        "teams": [
+            "Pune Warriors India",
+            "Delhi Capitals",
+            "Punjab Kings"
+        ]
+    },
+    "Anustup Majumdar": {
+        "nationality": "Indian",
+        "teams": [
+            "Pune Warriors India",
+            "Kolkata Knight Riders"
+        ]
+    }, 
+    "Tamim Iqbal": {
+        "nationality": "Bangladeshi",
+        "teams": [
+            "Pune Warriors India"
+        ]
+    }, 
+    "Krishnakant Upadhyay": {
+        "nationality": "Indian",
+        "teams": [
+            "Pune Warriors India"
+        ]
+    }, 
+    "Luke Wright": {
+        "nationality": "English",
+        "teams": [
+            "Pune Warriors India"
+        ]
+    },
+    "Udit Birla": {
+        "nationality": "Indian",
+        "teams": [
+            "Pune Warriors India"
+        ]
+    },
+    "Jaydev Shah": {
+        "nationality": "Indian",
+        "teams": [
+            "Gujarat Lions",
+            "Rajasthan Royals",
+            "Deccan Chargers"
+        ]
+    },
+    "Umang Sharma": {
+        "nationality": "Indian",
+        "teams": [
+            "Gujarat Lions"
+        ]
+    },
+    "Shivil Kaushik": {
+        "nationality": "Indian",
+        "teams": [
+            "Gujarat Lions"
+        ]
+    },
+    "Shelley Shaurya": {
+        "nationality": "Indian",
+        "teams": [
+            "Gujarat Lions"
+        ]
+    },
+    "Chirag Suri": {
+        "nationality": "UAE",
+        "teams": [
+            "Gujarat Lions",
+            "Delhi Capitals"
+        ]
+    },
+    "Ankit Soni": {
+        "nationality": "Indian",
+        "teams": [
+            "Gujarat Lions"
+        ]
+    },
+    "Shubham Agarwal": {
+        "nationality": "Indian",
+        "teams": [
+            "Gujarat Lions"
+        ]
+    },
+    "Baba Aparajith": {
+        "nationality": "Indian",
+        "teams": [
+            "Rising Pune Supergiants",
+            "Chennai Super Kings"
+        ]
+    },
+    "Peter Handscomb": {
+        "nationality": "Australian",
+        "teams": [
+            "Rising Pune Supergiants"
+        ]
+    },
+    "Scott Boland": {
+        "nationality": "Australian",
+        "teams": [
+            "Rising Pune Supergiants"
+        ]
+    },
+    "Usman Khawaja": {
+        "nationality": "Australian",
+        "teams": [
+            "Rising Pune Supergiants"
+        ]
+    },
+    "Jaskaran Singh": {
+        "nationality": "Indian",
+        "teams": [
+            "Rising Pune Supergiants"
+        ]
+    },
+    "Milind Tandon": {
+        "nationality": "Indian",
+        "teams": [
+            "Rising Pune Supergiants"
+        ]
+    },
+    "Yash Dayal": {
+        "nationality": "Indian",
+        "teams": [
+            "Gujarat Titans"
+        ]
+    },
+    "Sai Sudharsan": {
+        "nationality": "Indian",
+        "teams": [
+            "Gujarat Titans"
+        ]
+    },
+    "Noor Ahmad": {
+        "nationality": "Afghan",
+        "teams": [
+            "Gujarat Titans"
+        ]
+    },
+    "Abhinav Manohar": {
+        "nationality": "Indian",
+        "teams": [
+            "Gujarat Titans"
+        ]
+    },
+    "Dasun Shanaka": {
+        "nationality": "Sri Lankan",
+        "teams": [
+            "Gujarat Titans"
+        ]
+    },
+    "Urvil Patel": {
+        "nationality": "Indian",
+        "teams": [
+            "Gujarat Titans"
+        ]
+    },
+    "Joshua Little": {
+        "nationality": "Irish",
+        "teams": [
+            "Gujarat Titans"
+        ]
+    },
+    "Ayush Badoni": {
+        "nationality": "Indian",
+        "teams": [
+            "Lucknow Super Giants"
+        ]
+    },
+    "Kyle Mayers": {
+        "nationality": "West Indian",
+        "teams": [
+            "Lucknow Super Giants"
+        ]
+    },
+    "Karan Sharma": {
+        "nationality": "Indian",
+        "teams": [
+            "Lucknow Super Giants"
+        ]
+    },
+    "Mayank Yadav": {
+        "nationality": "Indian",
+        "teams": [
+            "Lucknow Super Giants"
+        ]
+    },
+    "Yash Thakur": {
+        "nationality": "Indian",
+        "teams": [
+            "Lucknow Super Giants"
+        ]
+    },
+    "Naveen ul Haq": {
+        "nationality": "Afghan",
+        "teams": [
+            "Lucknow Super Giants"
+        ]
+    },
+    "Arpit Guleria": {
+        "nationality": "Indian",
+        "teams": [
+            "Lucknow Super Giants"
         ]
     }
 }
