@@ -1141,7 +1141,8 @@
       "Punjab Kings",
       "Sunrisers Hyderabad",
       "Kochi Tuskers Kerala",
-      "Rising Pune Supergiants"
+      "Rising Pune Supergiants",
+      "Mumbai Indians"
     ]
   },
   "Doug Bollinger": {
@@ -1772,7 +1773,7 @@
   },
   "Pat Cummins": {
     "nationality": "Australian",
-    "teams": ["Delhi Capitals", "Kolkata Knight Riders"]
+    "teams": ["Delhi Capitals", "Kolkata Knight Riders", "Mumbai Indians"]
   },
   "Colin Munro": {
     "nationality": "New Zealander",
@@ -3173,7 +3174,7 @@
   },
   "Jerome Taylor": {
     "nationality": "West Indian",
-    "teams": ["Pune Warriors India","Deccan Chargers"]
+    "teams": ["Pune Warriors India","Deccan Chargers", "Mumbai Indians"]
   },
   "Jesse Ryder": {
     "nationality": "New Zealander",
@@ -3233,7 +3234,7 @@
   },
   "Jaydev Shah": {
     "nationality": "Indian",
-    "teams": ["Gujarat Lions", "Rajasthan Royals", "Deccan Chargers"]
+    "teams": ["Gujarat Lions", "Rajasthan Royals", "Deccan Chargers", "Mumbai Indians"]
   },
   "Umang Sharma": {
     "nationality": "Indian",
@@ -3410,5 +3411,149 @@
   "Nuwan Zoysa": {
     "nationality": "Sri Lankan",
     "teams": ["Deccan Chargers"]
+  },
+  "Loots Bosman": {
+    "nationality": "South African",
+    "teams": ["Mumbai Indians"]
+  },
+  "Gaurav Dhiman": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians", "Royal Challengers Bangalore"]
+  },
+  "Dilhara Fernando": {
+    "nationality": "Sri Lankan",
+    "teams": ["Mumbai Indians"]
+  },
+  "Sanath Jayasuriya": {
+    "nationality": "Sri Lankan",
+    "teams": ["Mumbai Indians"]
+  },
+  "Musavir Khote": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Andre Nel": {
+    "nationality": "South African",
+    "teams": ["Mumbai Indians"]
+  },
+  "Rajesh Pawar": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians", "Delhi Capitals"]
+  },
+  "Shaun Pollock": {
+    "nationality": "South African",
+    "teams": ["Mumbai Indians"]
+  },
+  "Ashwell Prince": {
+    "nationality": "South African",
+    "teams": ["Mumbai Indians"]
+  },
+  "Pinal Shah": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians", "Rajasthan Royals"]
+  },
+  "Rohan Raje": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Dominic Thornely": {
+    "nationality": "Australian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Vikrant Yeligati": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Luke Ronchi": {
+    "nationality": "New Zealander",
+    "teams": ["Mumbai Indians"]
+  },
+  "Kyle Mills": {
+    "nationality": "New Zealander",
+    "teams": ["Mumbai Indians", "Punjab Kings"]
+  },
+  "Chaitanya Nanda": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Mohammad Ashraful": {
+    "nationality": "Bangladeshi",
+    "teams": ["Mumbai Indians"]
+  },
+  "Rahil Shaikh": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Graham Napier": {
+    "nationality": "English",
+    "teams": ["Mumbai Indians"]
+  },
+  "Ishan Malhotra": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Syed Shahabuddin": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Sarul Kanwar": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Santosh Yadav": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Amitoze Singh": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Richard Levi": {
+    "nationality": "South African",
+    "teams": ["Mumbai Indians"]
+  },
+  "Sujit Nayak": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Robin Peterson": {
+    "nationality": "South African",
+    "teams": ["Mumbai Indians"]
+  },
+  "Apoorv Wankhade": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Philip Hughes": {
+    "nationality": "South African",
+    "teams": ["Mumbai Indians"]
+  },
+  "Javed Khan": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Akshay Wakhare": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Deepak Punia": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Kishore Kamath": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Asela Gunaratne": {
+    "nationality": "Sri Lankan",
+    "teams": ["Mumbai Indians"]
+  },
+  "MD Nidheesh": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
+  },
+  "Sharad Lumba": {
+    "nationality": "Indian",
+    "teams": ["Mumbai Indians"]
   }
 }
