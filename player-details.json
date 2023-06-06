@@ -1703,7 +1703,8 @@
       "Delhi Capitals",
       "Kolkata Knight Riders",
       "Mumbai Indians",
-      "Rajasthan Royals"
+      "Rajasthan Royals",
+      "Royal Challengers Bangalore"
     ]
   },
   "Jayant Yadav": {
@@ -2954,7 +2955,7 @@
   },
   "Anirudha Joshi": {
     "nationality": "Indian",
-    "teams": ["Rajasthan Royals"]
+    "teams": ["Rajasthan Royals", "Royal Challengers Bangalore"]
   },
   "Kartik Tyagi": {
     "nationality": "Indian",
@@ -3555,5 +3556,129 @@
   "Sharad Lumba": {
     "nationality": "Indian",
     "teams": ["Mumbai Indians"]
+  },
+  "Abdur Razzak": {
+    "nationality": "Bangladeshi",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Neravanda Aiyappa": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Jagadeesh Arunkumar": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Mark Boucher": {
+    "nationality": "South African",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Shivnarine Chanderpaul": {
+    "nationality": "West Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Wasim Jaffer": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Sunil Joshi": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Anil Kumble": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Misbah-ul-Haq": {
+    "nationality": "Pakistan",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Ashley Noffke": {
+    "nationality": "Australian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Devraj Patil": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Nathan Bracken": {
+    "nationality": "Australian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Saurabh Bandekar": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Rajesh Bishnoi": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Dillon du Preez": {
+    "nationality": "South African",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Udit Patel": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Jitendra Patil": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "RK Sabharwal": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Rangaraj Suthesh": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Tinu Yohannan": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Sridharan Sriram": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "BN Bharath": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Nuwan Pradeep": {
+    "nationality": "Sri Lankan",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Jamaluddin Syed Mohammad": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Johan van der Wath": {
+    "nationality": "South African",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Jonathan Vandiar": {
+    "nationality": "South African",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "S Thiyagarajan": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Chris Barnwell": {
+    "nationality": "West Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Shishir Bhavane": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Vikas Tokas": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
+  },
+  "Akshay Karnewar": {
+    "nationality": "Indian",
+    "teams": ["Royal Challengers Bangalore"]
   }
 }
